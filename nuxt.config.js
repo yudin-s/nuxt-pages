@@ -62,5 +62,8 @@ module.exports = {
         })
       }
     }
+  },
+  router: {
+    base: '/nuxt-vuetify-example/'
   }
 }
