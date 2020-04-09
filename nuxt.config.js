@@ -2,7 +2,6 @@ const pkg = require('./package')
 
 module.exports = {
   mode: 'spa',
-
   /*
   ** Headers of the page
   */
@@ -64,6 +63,6 @@ module.exports = {
     }
   },
   router: {
-    base: '/nuxt-vuetify-example/'
+    base: '/nuxt-pages/'
   }
 }
